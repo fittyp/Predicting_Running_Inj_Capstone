@@ -10,3 +10,8 @@
 
 ### 4.Adjusted Data Sets- Predicting Running Injuries.ipynb
 
+I've also attached additional files:
+- my report submitted for this assignment
+- a tableau file with some visuals used in my presentation
+- a ppt used in the presentation
+- the data sets used
